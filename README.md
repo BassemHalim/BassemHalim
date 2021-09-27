@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Bassem, an Electrical Engineering and Computer Science student at University of California, Berkeley.   
+I am currently looking for SWE internships for summer 2022.
+
+To take a look at my projects please send me an email at bassemhalim99 [at] gmail [dot] com
 
 <!--
 **BassemHalim/BassemHalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
