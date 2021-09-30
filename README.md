@@ -4,6 +4,10 @@ I am currently looking for SWE internships for summer 2022.
 
 If you would like to take a look at some of my projects please send me an email at bassemhalim99 [at] gmail [dot] com
 
+
+<!--
+here is one of my latest projects
+![oops! something went wrong](https://github.com/BassemHalim/Build_Your_Own_World/blob/master/proj3/BYOW2.gif )
 <!--
 **BassemHalim/BassemHalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
