@@ -7,7 +7,7 @@ If you would like to take a look at some of my projects please send me an email 
 
 
 here is a couple of my latest projects
-![oops! something went wrong](https://github.com/BassemHalim/Build_Your_Own_World/blob/master/proj3/BYOW2.gif )
+![oops! something went wrong](https://github.com/BassemHalim/BassemHalim/blob/main/BYOW2.gif )
 
 ![oops! something went wrong](https://github.com/BassemHalim/2048/blob/main/proj0/BYOW2.gif)
 <!--
