@@ -5,7 +5,8 @@ I am currently looking for 2023 new grad SWE, web developer (backend or fullstac
 here is a couple of my projects
 <div align="center">
 <img src="https://github.com/BassemHalim/Chatroom/blob/master/chatroom-demo.gif" alt="chatroom gif" width="60%"/>
-<img src="https://github.com/BassemHalim/Cyclopath/blob/master/sample.png" alt="cyclopath gif" width="60%"/>
+<img src="https://github.com/BassemHalim/BassemHalim/blob/main/sample.png" alt="Cyclopath" width="60%"/>
+
 </div>
 <div align="center">
 <img src="https://github.com/BassemHalim/BassemHalim/blob/main/BYOW3.gif" alt="build your own world gif" width="60%"/>
