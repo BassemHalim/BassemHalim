@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bassem</h1>
 <h3 align="center">A UC Berkeley graduate with a degree in Electrical Engineering and Computer Science. Lately I've been interested in fullstack and backend development. Eager to contribute to challenging projects and grow as a professional in my first software engineering role.</h3>
 
-- 🔭 I’m currently working on [MemeHub](https://github.com/BassemHalim/memeDB)
+- 🔭 I’m currently working on [MemeHub](https://github.com/BassemHalim/memeDB) 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js + Go**
 
 - 📫 How to reach me **bassemhalim99[at]gmail**
 
