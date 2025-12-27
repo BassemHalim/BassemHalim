@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassem</h1>
-<h3 align="center">A UC Berkeley graduate with a degree in Electrical Engineering and Computer Science. Lately I've been interested in fullstack and backend development. Eager to contribute to challenging projects.</h3>
+<p>A UC Berkeley graduate with a degree in Electrical Engineering and Computer Science. Lately I've been interested in fullstack and backend development. Eager to contribute to challenging projects.</p>
 
 - 🔭 I’m currently working on [MemeHub](https://github.com/BassemHalim/memeDB) 
 
